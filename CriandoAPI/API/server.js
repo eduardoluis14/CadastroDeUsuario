@@ -81,7 +81,4 @@ Criar a API de usuarios
 - Listar todos os usuarios
 - Editar um usuario
 - Deletar um usuario
-
-luis
-gBewF0k1wMkfxe7i
 */
